@@ -13,6 +13,7 @@
 -----
 
 所谓静态快捷方式，就是在应用安装前预先设置好的不能够改变的菜单项，它的设置方式是在 Info.plist 里面添加一个 UIApplicationShortcutItems 字段,如下图
+
 ![](https://github.com/luzefeng/3DTouchDemo/blob/master/UIApplicationShortcutItems.png)
 
 
